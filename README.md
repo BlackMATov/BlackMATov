@@ -29,6 +29,7 @@
 | Currying and partial application in C++14                   | [En][en.curry] / [Ru][ru.curry]             |
 | Isometric Plugin for Unity3D                                | [En][en.iso.tools] / [Ru][ru.iso.tools]     |
 | Flash-animation in Unity3D from scratch. Part one, lyrical. | [En][en.flash.tools] / [Ru][ru.flash.tools] |
+| Гетерогенный поиск в ассоциативных контейнерах на C++       | [Ru][ru.hlookup]                            |
 
 [c89]: https://en.wikipedia.org/wiki/ANSI_C#C89
 [cpp11]: https://en.wikipedia.org/wiki/C%2B%2B11
@@ -112,3 +113,4 @@
 [ru.iso.tools]: https://habr.com/post/269653
 [en.flash.tools]: https://habr.com/post/445102
 [ru.flash.tools]: https://habr.com/post/443524
+[ru.hlookup]: https://habr.com/post/523668
