@@ -76,8 +76,8 @@
 [promise.hpp.forks]: https://img.shields.io/github/forks/blackmatov/promise.hpp?style=social
 [vmath.hpp.forks]: https://img.shields.io/github/forks/blackmatov/vmath.hpp?style=social
 
-[iso.tools]: https://blackmatov.github.io/unity-assets/isometric-toolset.html
-[flash.tools]: https://blackmatov.github.io/unity-assets/flash-animation-toolset.html
+[iso.tools]: https://github.com/blackmatov/unity-iso-tools
+[flash.tools]: https://github.com/blackmatov/unity-flash-tools
 
 [en.curry]: https://habr.com/post/436488
 [ru.curry]: https://habr.com/post/340722
